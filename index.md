@@ -19,9 +19,8 @@ The MVP will aim to:
 This project will also serve as a case study exploring the possibility of 'lean approaches in academic research'. Our goal here will be to experiment with application of agile and lean UX philosophies to a research software project. This will mean getting information from target users as early as possible in the project process within a validated learning loop, and avoiding over-reliance on assumptions derived from theoretical analyses.
 
 ### Contact
-
-Dr Antesar Shabut (a.shabut@leedstrinity.ac.uk
-Dr Sorrel Harriet (s.harriet@leedstrinity.ac.uk)
++ Dr Antesar Shabut (a.shabut@leedstrinity.ac.uk
++ Dr Sorrel Harriet (s.harriet@leedstrinity.ac.uk)
 
 ### Funding
 
