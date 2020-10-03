@@ -11,7 +11,7 @@ We are seeking to design, build and test an MVP which will support careers educa
 The MVP will aim to:
 
 + Raise awareness of the importance of ‘soft skills’ in relation to tech roles 
-+ Provide a safe, accessible and engaging mechanism for students to engage with industry and learn about different tech roles 
++ Provide a safe and accessible mechanism for students to engage with industry and learn about different tech roles 
 + Help widen participation in computer science at university 
 
 ### Case study
