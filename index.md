@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Roles in Tech
 
-You can use the [editor on GitHub](https://github.com/sharriet/roles-in-tech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Mission
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> To inform and engage students in the diverse range of career opportunities in the technology sector and highlight the importance of soft skills.
 
-### Markdown
+### About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are seeking to design, build and test an MVP which will support careers education and professional development among school leavers and undergraduate students. 
 
-```markdown
-Syntax highlighted code block
+The MVP will aim to:
 
-# Header 1
-## Header 2
-### Header 3
++ Raise awareness of the importance of ‘soft skills’ in relation to tech roles 
++ Provide a safe, accessible and engaging mechanism for students to engage with industry and learn about different tech roles 
++ Help widen participation in computer science at university 
 
-- Bulleted
-- List
+### Case study
 
-1. Numbered
-2. List
+This project will also serve as a case study exploring the possibility of 'lean approaches in academic research'. Our goal here will be to experiment with application of agile and lean UX philosophies to a research software project. This will mean getting information from target users as early as possible in the project process within a validated learning loop, and avoiding over-reliance on assumptions derived from theoretical analyses.
 
-**Bold** and _Italic_ and `Code` text
+### Contact
 
-[Link](url) and ![Image](src)
-```
+Dr Antesar Shabut (a.shabut@leedstrinity.ac.uk
+Dr Sorrel Harriet (s.harriet@leedstrinity.ac.uk)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Funding
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sharriet/roles-in-tech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This project is funded by Leeds Trinity University.
