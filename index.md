@@ -2,7 +2,7 @@
 
 ### Mission
 
-> To inform and engage students in the diverse range of career opportunities in the technology sector and highlight the importance of soft skills.
+> To inform and engage school leavers in the diverse range of career opportunities in the technology sector and highlight the importance of soft skills.
 
 ### About
 
